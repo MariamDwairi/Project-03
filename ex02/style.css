@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.active {
+    background-color: yellow;
+    color: grey;
+}

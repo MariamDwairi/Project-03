@@ -1,0 +1,18 @@
+.counter-container{
+  width: 400px;
+  padding: 30px;
+  text-align: center;
+  background-color: lavender;   
+}
+
+.buttons{
+  padding: 10px; 
+}
+
+#btn-dec{
+  background-color: red;
+}
+
+#btn-inc{
+  background-color: green
+}

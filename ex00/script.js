@@ -1,0 +1,11 @@
+const name = "Mariam";
+let age =23;
+let isCoding = true;
+console.log("Welcome, " + name + "!");
+console.log("Your age is: " + age);
+console.log("Are you coding? " + isCoding);
+age++;
+console.log("Your age is: " + age);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof isCoding);
